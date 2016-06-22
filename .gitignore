@@ -106,4 +106,7 @@ some/
 some1/
 .idea/
 .idea/workspace.xml
-workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
