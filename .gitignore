@@ -105,4 +105,5 @@ var/
 some/
 some1/
 .idea/
+.idea/workspace.xml
 workspace.xml
