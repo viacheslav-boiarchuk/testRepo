@@ -1,0 +1,19 @@
+{
+  "name": "red",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viacheslav1992/testRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viacheslav1992/testRepo/issues"
+  },
+  "homepage": "https://github.com/viacheslav1992/testRepo#readme"
+}
