@@ -1,8 +1,5 @@
 slava test some
 asd
 asd
-asd
-as
-f
-vd
+123
 bd231
