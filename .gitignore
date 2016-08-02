@@ -110,3 +110,4 @@ some1/
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
+node_modules/
