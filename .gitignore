@@ -105,6 +105,7 @@ var/
 some/
 some1/
 .idea/
+.idea/*
 .idea/tasks.xml
 .idea/dictionaries
 .idea/jsLibraryMappings.xml
