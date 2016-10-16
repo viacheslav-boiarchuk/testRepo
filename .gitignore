@@ -105,9 +105,8 @@ var/
 some/
 some1/
 .idea/
-.idea/workspace.xml
+.idea/*
 .idea/tasks.xml
 .idea/dictionaries
-.idea/vcs.xml
 .idea/jsLibraryMappings.xml
 node_modules/
