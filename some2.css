@@ -3,4 +3,6 @@ p {
 	font-size: 15px;
 	margin: 10px;
 	padding: 10px;
+	border: 1px;
+	background: black;
 }
