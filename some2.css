@@ -1,8 +1,8 @@
 p {
 	color: blue;
 	font-size: 15px;
-	margin: 7px;
-	padding: 2px;
-	border: 10px;
-	background: black;
+	margin: 10px;
+	padding: 10px;
+	border: 1px;
+	background: darkcyan;
 }
